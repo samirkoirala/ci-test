@@ -1,1 +1,1 @@
-# ci-test
+# Implemented a git workflow and used github actions to deploy a application. The application is deployed by a trigger in the pipeline with a push and on every push, it containerizes the application and depolys it and all the process is automated with github actions.
